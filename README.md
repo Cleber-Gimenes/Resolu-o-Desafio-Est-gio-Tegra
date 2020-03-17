@@ -1,6 +1,8 @@
 # Resolu-o-Desafio-Est-gio-Tegra
 Resolução Desafio Estágio Tegra
 
+Projeto Desenvolvido no Visual Studio 2015!!.
+
 Diferenciais utilizados:
 
 * Banco de Dados MySQL.
