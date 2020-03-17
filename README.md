@@ -17,15 +17,10 @@ create database bd_livraria;
 use bd_livraria;
 
 create table tb_livros(
-
 ID int not null primary key,
-
 titulo varchar(110) not null,  
-
 autor varchar(50) not null,
-
 valor decimal(5,2) not null,
-
 qtd int not null);
     
 // Software de uma livraria, divido em duas etapas :
