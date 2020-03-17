@@ -16,7 +16,8 @@ create database bd_livraria;
 
 use bd_livraria;
 
-create table tb_livros(
+create table tb_livros
+(
 ID int not null primary key,
 titulo varchar(110) not null,  
 autor varchar(50) not null,
