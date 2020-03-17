@@ -3,9 +3,9 @@ Resolução Desafio Estágio Tegra
 
 Diferenciais utilizados:
 
-*Banco de Dados MySQL.
+* Banco de Dados MySQL.
 
-*Filtro de pesquisa : Adicionado Filtro por "Autor".
+* Filtro de pesquisa : Adicionado Filtro por "Autor".
 
 * Tratamento de erros utilizando método Try / Catch.
 
